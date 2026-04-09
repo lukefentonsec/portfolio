@@ -5,11 +5,11 @@ I specialise in **Security Operations**, **Incident Response**, **Forensic Analy
 
 This portfolio showcases:
 
--structured case studies
-technical methodologies
-incident response workflows
-Forensic and enumeration techniques
-ongoing research and lab work
+- structured case studies
+- technical methodologies
+- incident response workflows
+- forensic and enumeration techniques
+- ongoing research and lab work
 
 It is designed to demonstrate clear thinking, repeatable processes, and professional communication.
 
