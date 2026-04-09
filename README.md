@@ -1,7 +1,7 @@
 # Security Portfolio - Luke Fenton
 
 Welcome to my professional security portfolio.
-I specialise in **Security Operations**, **Incident Response**, **Forensic Analysis**, with a strong focus on **methodical investigation**, **responsible disclosure**, and **CREST-aligned learning**.
+I specialise in **Security Operations**, **Incident Response**, **Forensic Analysis**, and **Application Security**, with a strong focus on **methodical investigation**, **responsible disclosure**, and **CREST-aligned learning**.
 
 This portfolio showcases:
 
